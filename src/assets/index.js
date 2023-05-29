@@ -8,6 +8,7 @@ import logotext from './logo/logo_name.jpeg';
 
 
 import mulati from './personal/mulati.png';
+import mulati2 from './personal/portfolio.png';
 import shaq from './personal/shaq.png';
 
 import android from './icons/android.png';
@@ -62,6 +63,7 @@ import shikisha from './projects/shikisha.png';
 import space from './projects/space-hub.png';
 export {
   rank,
+  mulati2,
   android,
   analyst,
   python,
